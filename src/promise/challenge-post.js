@@ -27,3 +27,4 @@ const data = {
 postData(`${API}/products`, data) //postData as a promise
     .then(response => response.json())
     .then(data => console.log(data));
+    
