@@ -34,3 +34,4 @@ fetchData(`${API}/products`, function (error1, data1) {
     });
 });
 // we can rectify the information in the console with the route, like: node ssrc/callback/fakeApi.js
+//'npm run callback' when we put the route in package.json in the scripts
