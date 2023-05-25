@@ -4,7 +4,7 @@
   "description": "asynchronous javascript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node src/callback/fakeApi.js"
   },
   "keywords": [
     "javascript"
